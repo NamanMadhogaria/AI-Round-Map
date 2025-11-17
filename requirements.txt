@@ -1,1 +1,47 @@
+# Core Python
+numpy
+pandas
+
+# Document Parsing
+python-docx
+docx2txt
+pymupdf
+pdfplumber
+pypdf
+openpyxl
+
+# NLP / Embeddings
+sentence-transformers
+transformers
+accelerate
+torch
+
+# Vector Database
+chromadb
+faiss-cpu
+
+# Backend API
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+
+# Environment & Config
+python-dotenv
+
+# Frontend (optional Streamlit)
+streamlit
+
+# Utilities
+tqdm
+rich
+requests
+
+# Logging & Evaluation
+matplotlib
+scikit-learn
+
+# Optional LLM Integration
+ollama
+huggingface_hub
 
